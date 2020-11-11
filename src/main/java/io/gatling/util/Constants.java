@@ -15,4 +15,7 @@ public class Constants {
 
     //    ------------  Computer Addition Page  ---------------
     public static String compAdditionUrl = baseUrl + "/new";
+
+    //    ------------  Computer Deletion Page  ---------------
+    public static String compDeletionUrl = baseUrl + "/313";
 }
